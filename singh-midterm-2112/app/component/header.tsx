@@ -6,4 +6,4 @@ import { usePathname } from 'next/navigation'
 
 export default function Navbar() {
         
-    
+}
